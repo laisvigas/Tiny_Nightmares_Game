@@ -4,7 +4,7 @@ Welcome to **Tiny Nightmares**, a text-based adventure RPG where you explore the
 
 ---
 
-## 🎮 How to Play
+## How to Play
 
 1. **Run the Game:**  
    Compile and execute the `Game.java` class.
@@ -42,13 +42,13 @@ Welcome to **Tiny Nightmares**, a text-based adventure RPG where you explore the
 
 ---
 
-## 🗺️ The Labyrinth
+## The Labyrinth
 
 The Maw is a treacherous place. There's in total 17 rooms you can.
 
 ---
 
-## 👹 Enemies
+## Enemies
 
 Beware of the dangers lurking within The Maw. Different enemies inhabit various rooms, each with their own characteristics:
 
@@ -59,14 +59,14 @@ Beware of the dangers lurking within The Maw. Different enemies inhabit various 
 
 ---
 
-## 🏆 Win and Lose Conditions
+## Win and Lose Conditions
 
 - **Win:** Reach the **Exit**.  
 - **Lose:** Your life reaches zero during combat.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Java
 
@@ -76,7 +76,7 @@ Good luck on your adventure through **The Maw**!
 
 ---
 
-## 🧠 About This Project
+## About This Project
 
 This game was developed for the **Object-Oriented Programming** subject for the course **Software Developer** taught by **Professor Vitor Santos** at **Casae Digital**.
 
