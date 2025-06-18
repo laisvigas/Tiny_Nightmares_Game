@@ -2,7 +2,7 @@
 
 Welcome to **Tiny Nightmares**, a text-based adventure RPG where you explore the dark and dangerous corridors of **The Maw**! Survive, fight, and discover the path to freedom in this labyrinth of horrors.
 
----
+
 ## How to Play
 
 1. **Compile and Run the Game**  
@@ -54,13 +54,11 @@ java -cp out:src Main
 8. **Objective:**  
    - Your ultimate goal is to find the **Exit** and escape The Maw!
 
----
 
 ## The Labyrinth
 
 The Maw is a treacherous place. There's in total 17 rooms you can.
 
----
 
 ## Enemies
 
@@ -71,24 +69,20 @@ Beware of the dangers lurking within The Maw. Different enemies inhabit various 
 - **The Janitor**: A sturdy and relentless opponent.  
 - **The Chef**: Watch out for their "culinary" skills and combat prowess.
 
----
 
 ## Win and Lose Conditions
 
 - **Win:** Reach the **Exit**.  
 - **Lose:** Your life reaches zero during combat.
 
----
 
 ## Technologies Used
 
 - Java
 
----
 
 Good luck on your adventure through **The Maw**!  
 
----
 
 ## About This Project
 
