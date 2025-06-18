@@ -10,13 +10,13 @@ Welcome to **Tiny Nightmares**, a text-based adventure RPG where you explore the
 
 2. **Navigate to the project folder and run the game using the `Main` class:**
 
-#### - On Windows
+#### - On Windows Terminal
 ```cmd
 cd path\to\file\Tiny_Nightmares
 java -cp out;src Main
 ```
 
-#### - On macOS or Linux
+#### - On macOS or Linux Terminal
 ```cmd
 cd path/to/file/Tiny_Nightmares
 java -cp out:src Main
