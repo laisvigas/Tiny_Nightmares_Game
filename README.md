@@ -1,6 +1,8 @@
 # Tiny Nightmares: A Text-Based RPG
 
-Welcome to **Tiny Nightmares**, a text-based adventure RPG where you explore the dark and dangerous corridors of **The Maw**! Survive, fight, and discover the path to freedom in this labyrinth of horrors.
+<img src="Media/intro.gif" width="50%" alt="Intro animation"/>
+
+This is a text-based adventure RPG where you explore the dark and dangerous corridors of **The Maw**! Survive, fight, and discover the path to freedom in this labyrinth of horrors.
 
 
 ## How to Play
@@ -57,10 +59,12 @@ java -cp out:src Main
 
 ## The Labyrinth
 
-The Maw is a treacherous place. There's in total 17 rooms you can.
+The Maw is a treacherous place. There's in total 17 rooms you can explore.
 
 
 ## Enemies
+
+<img src="Media/the-janitor.png" width="50%" alt="Intro animation"/>
 
 Beware of the dangers lurking within The Maw. Different enemies inhabit various rooms, each with their own characteristics:
 
