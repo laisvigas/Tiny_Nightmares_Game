@@ -3,11 +3,25 @@
 Welcome to **Tiny Nightmares**, a text-based adventure RPG where you explore the dark and dangerous corridors of **The Maw**! Survive, fight, and discover the path to freedom in this labyrinth of horrors.
 
 ---
-
 ## How to Play
 
-1. **Run the Game:**  
-   Compile and execute the `Game.java` class.
+1. **Compile and Run the Game**  
+   Make sure you have Java installed (JDK 17 or later is recommended).
+
+2. **Navigate to the project folder and run the game using the `Main` class:**
+
+#### - On Windows
+```cmd
+cd path\to\file\Tiny_Nightmares
+java -cp out;src Main
+```
+
+#### - On macOS or Linux
+```cmd
+cd path/to/file/Tiny_Nightmares
+java -cp out:src Main
+```
+
 
 2. **Create Your Character:**  
    - Choose from three unique hero types: **Empath**, **Shadow**, or **Tinkerer**.  
@@ -84,5 +98,5 @@ This game was developed for the **Object-Oriented Programming** subject for the 
 
 Thank you for checking it out! 💻🕹️
 
->>>> Download the game here: 
+> Download the game here: https://drive.google.com/file/d/1BsfA26TghrB9s5_Gcku5nSsLC9uHW5C0/view?usp=sharing
 
